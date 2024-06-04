@@ -132,3 +132,4 @@ def drawFP(servants, missions) -> None:
     }
 
     requests.post(endpoint, json=jsonData, headers=headers)
+
